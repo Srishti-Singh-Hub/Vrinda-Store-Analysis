@@ -1,10 +1,10 @@
 # Vrinda-Store-Analysis
 Full Project in Excel with Interactive Dashboard.
-Vrinda Store Annual Sales Report 2022
+Vrinda Store Annual Sales Report 2024
 
 Project Overview
 
-This project aims to analyze and present the sales data for Vrinda Store in 2022, providing valuable insights into customer behaviors, purchasing trends, and sales performance. By leveraging these insights, Vrinda Store aims to optimize strategies and achieve significant growth in 2023.
+This project aims to analyze and present the sales data for Vrinda Store in 2024, providing valuable insights into customer behaviors, purchasing trends, and sales performance. By leveraging these insights, Vrinda Store aims to optimize strategies and achieve significant growth in 2025.
 
 Key Features
 
